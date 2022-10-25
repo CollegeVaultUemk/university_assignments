@@ -1,1 +1,0 @@
-print("Python is a wonderful language.")
